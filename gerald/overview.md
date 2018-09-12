@@ -1,6 +1,0 @@
-# Name of project
-
-**KHOR Chen Sian Gerald**
-
-![overviews](./imgs/overviews.jpg)
-Abstract: No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions. No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions. No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions. No more than around 200 words. This abstract should give a very brief overview of your whole project, from start to finish. It should describe how many iterations you did, and what the aims was. It should give a brief summary of what was achieved, and of any conclusions.
